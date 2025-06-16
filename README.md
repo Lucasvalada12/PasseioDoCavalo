@@ -16,4 +16,4 @@ Dado um tabuleiro \( n \times n \), o objetivo é encontrar um caminho que permi
 ## ▶️ Como Executar
 
 ```bash
-python tests/test_instancias.py
+python test_instancias.py
