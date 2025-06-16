@@ -8,8 +8,8 @@ Dado um tabuleiro \( n \times n \), o objetivo é encontrar um caminho que permi
 
 ## 📁 Estrutura
 
-- `src/passeio_cavalo.py` — implementação principal
-- `tests/test_instancias.py` — testes para instâncias pequenas
+- `passeio_cavalo.py` — implementação principal
+- `test_instancias.py` — testes para instâncias pequenas
 - `README.md` — documentação
 - `.gitignore` — exclui arquivos temporários
 
